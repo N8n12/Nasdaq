@@ -1,3 +1,14 @@
+import subprocess
+import sys
+
+# Ensure kagglehub is installed
+try:
+    import kagglehub
+except ImportError:
+    subprocess.run([sys.executable, "-m", "pip", "install", "kagglehub"], check=True)
+    import kagglehub
+
+
 
 import os
 import pandas as pd
