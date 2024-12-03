@@ -1,30 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
-pip install kagglehub
-
-
-# In[4]:
-
-
-pip install yfinance
-
-
-# In[ ]:
-
-
-pip install ipywidgets
-
-
-# In[6]:
-
-
-pip install streamlit
-
-
 # In[7]:
 
 
