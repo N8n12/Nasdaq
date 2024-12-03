@@ -1,5 +1,5 @@
-!pip install kagglehub
-!pip install yfinance
+pip install kagglehub
+pip install yfinance
 
 import os
 import pandas as pd
