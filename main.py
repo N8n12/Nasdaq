@@ -1,4 +1,14 @@
-!pip install kagglehub
+import os
+
+def install_package(package_name):
+    os.system(f'pip install {package_name}')
+
+# Usage
+install_package('yfinance')
+
+install_package('kagglehub')
+
+
 
 import streamlit as st
 import pandas as pd
