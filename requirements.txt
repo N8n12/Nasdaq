@@ -2,4 +2,3 @@ yfinance
 kagglehub
 matplotlib
 plotly
-os
