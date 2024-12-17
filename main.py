@@ -12,6 +12,8 @@ install_package('yfinance')
 
 install_package('kagglehub')
 
+install_package('os')
+
 
 
 import streamlit as st
