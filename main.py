@@ -1,3 +1,5 @@
+pip install kagglehub
+
 import streamlit as st
 import pandas as pd
 import kagglehub
