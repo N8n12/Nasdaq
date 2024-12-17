@@ -1,7 +1,11 @@
-import os
+import subprocess
 
 def install_package(package_name):
-    os.system(f'pip install {package_name}')
+    try:
+        subprocess.check_call(['pip', 'install', package_name])
+        print(f"Successfully installed {package_name}")
+    except subprocess.CalledProcessError:
+        print(f"Error installing {package_name}")
 
 # Usage
 install_package('yfinance')
