@@ -1,5 +1,5 @@
-yfinance==0.1.63
-kagglehub==1.2.0
-matplotlib==3.4.3
-plotly==5.3.1
 os
+yfinance
+kagglehub
+matplotlib
+plotly
