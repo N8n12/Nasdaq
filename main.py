@@ -37,7 +37,7 @@ By filtering for the selected company, you are able to look at its past performa
 
 It's worth noting that the data we are using from the charts come from a fixed datasource from Kaggle, and the chart data only comes up to april 2020.
 
-Feel free to reach out to Tim or Nathan if you have any questions.
+Feel free to reach out to Tim (tim.stott@ca-cib.com) or Nathan (nathan.birnbaum@ca-cib.com) if you have any questions.
 
 Enjoy :smiley:!""")
 
