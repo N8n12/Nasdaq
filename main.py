@@ -280,7 +280,7 @@ lewagon_logo = "https://cdn.prod.website-files.com/59ef1c38722dc900018cec11/5d42
 col1,col2,col3= st.columns([2,1,2])
 
 with col2:
-    st.image(lewagon_logo,width = 200,use_column_width=True )
+    st.image(lewagon_logo,width = 200,use_container_width=True )
 st.write( 
     '<p style="text-align: center;">'"""
 This is a fake disclaimer that I have created for no reason.    
