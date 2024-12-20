@@ -35,7 +35,7 @@ This app allows users to look up certain stocks that are in the Nasdaq.
 
 By filtering for the selected company, you are able to look at its past performance, get some more information about the company as well see how its stock compares to some of it's industry competitors.
 
-It's worth noting that the data we are using from the charts come from a fixed datasource from Kaggle, and the chart data only comes up to april 2020.
+It's worth noting that the data we are using for the below charts comes from a fixed datasource from Kaggle and the chart data only comes up to april 2020.
 
 Feel free to reach out to Tim (tim.stott@ca-cib.com) or Nathan (nathan.birnbaum@ca-cib.com) if you have any questions.
 
